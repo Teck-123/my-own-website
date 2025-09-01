@@ -1,0 +1,42 @@
+body {
+    background-color: bisque
+}
+
+h1 {
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: xx-large;
+    color: rgb(6, 63, 138);
+}
+
+h2 {
+    font-weight: 800;
+    font-size: x-large;
+    font-style: inherit;
+    color: rgb(21, 112, 172);
+}
+
+p {
+    font-weight: 700;
+    font-size: x-large;
+}
+
+li {
+    font-size: larger;
+}
+
+img {
+    border: 7cap;
+    box-sizing: content-box;
+}
+
+button {
+    font-weight: bold;
+    box-sizing: inherit;
+    background-color: white;
+}
+
+sub {
+    font-weight: bold;
+    font-size: larger;
+}
