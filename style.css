@@ -40,3 +40,7 @@ sub {
     font-weight: bold;
     font-size: larger;
 }
+
+footer {
+    font-weight: bold;
+}
